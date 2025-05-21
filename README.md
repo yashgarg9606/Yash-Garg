@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @yashgarg9606<br>🎓 B.Tech Student @ NSUT<br>👀 I have completed DSA in C++.<br>🌱 I am currently learning Web development.<br>💞️ I’m looking to collaborate on ... projects,ideas,connecting,helping,exploring.<br>📫 You may reach me through this email id: yashgarg9606@gmail.com
+👋 Hi, I’m @yashgarg9606<br>🎓 B.Tech Student @ NSUT<br>👀 I have completed DSA in C++.<br>🌱 I am currently learning Web development.<br>💞️ I’m looking to collaborate on ... projects,ideas,connecting,helping,exploring.<br>📫 You may reach me through this email id: yash.off09@gmail.com
 
 
 ## 🌐 Socials:
